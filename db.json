@@ -5,7 +5,8 @@
 			"client": "Carlos Rodrigues Guedes",
 			"client_email": "carlos@email.com.br",
 			"client_avatar" : "man.svg",
-			"price" : 45
+			"price" : 45,
+			"phone" : "(11) 9-8877-0345"
 		},
 		{
 			"service": "Corte Feminino",
@@ -13,7 +14,8 @@
 			"client": "Catrina Rodrigues Guedes",
 			"client_email": "carlos@email.com.br",
 			"client_avatar" : "boy.svg",
-			"price" : 45
+			"price" : 45,
+			"phone" : "(11) 9-8877-0345"
 		},
 		{
 			"service": "Corte Masculino",
@@ -21,7 +23,8 @@
 			"client": "Froid Rodrigues Guedes",
 			"client_email": "carlos@email.com.br",
 			"client_avatar" : "man.svg",
-			"price" : 45
+			"price" : 45,
+			"phone" : "(11) 9-8877-0345"
 		},
 		{
 			"service": "Corte Masculino",
@@ -29,7 +32,8 @@
 			"client": "Danilo Rodrigues Guedes",
 			"client_email": "carlos@email.com.br",
 			"client_avatar" : "man.svg",
-			"price" : 45
+			"price" : 45,
+			"phone" : "(11) 9-8877-0345"
 		}
 	],
 	"services": [{
