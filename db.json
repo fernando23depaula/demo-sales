@@ -8,25 +8,25 @@
 			"price" : 45
 		},
 		{
-			"service": "Corte Masculino",
-			"profissional": "Carol Rodrigues",
-			"client": "Carlos Rodrigues Guedes",
+			"service": "Corte Feminino",
+			"profissional": "Rafa Cortez Rodrigues",
+			"client": "Catrina Rodrigues Guedes",
 			"client_email": "carlos@email.com.br",
 			"client_avatar" : "boy.svg",
 			"price" : 45
 		},
 		{
 			"service": "Corte Masculino",
-			"profissional": "Carol Rodrigues",
-			"client": "Carlos Rodrigues Guedes",
+			"profissional": "Fred Rodrigues",
+			"client": "Froid Rodrigues Guedes",
 			"client_email": "carlos@email.com.br",
 			"client_avatar" : "man.svg",
 			"price" : 45
 		},
 		{
 			"service": "Corte Masculino",
-			"profissional": "Carol Rodrigues",
-			"client": "Carlos Rodrigues Guedes",
+			"profissional": "Daiana Rodrigues",
+			"client": "Danilo Rodrigues Guedes",
 			"client_email": "carlos@email.com.br",
 			"client_avatar" : "man.svg",
 			"price" : 45
