@@ -4,28 +4,32 @@
 			"profissional": "Carol Rodrigues",
 			"client": "Carlos Rodrigues Guedes",
 			"client_email": "carlos@email.com.br",
-			"client_avatar" : "man.svg"
+			"client_avatar" : "man.svg",
+			"price" : 45
 		},
 		{
 			"service": "Corte Masculino",
 			"profissional": "Carol Rodrigues",
 			"client": "Carlos Rodrigues Guedes",
 			"client_email": "carlos@email.com.br",
-			"client_avatar" : "boy.svg"
+			"client_avatar" : "boy.svg",
+			"price" : 45
 		},
 		{
 			"service": "Corte Masculino",
 			"profissional": "Carol Rodrigues",
 			"client": "Carlos Rodrigues Guedes",
 			"client_email": "carlos@email.com.br",
-			"client_avatar" : "man.svg"
+			"client_avatar" : "man.svg",
+			"price" : 45
 		},
 		{
 			"service": "Corte Masculino",
 			"profissional": "Carol Rodrigues",
 			"client": "Carlos Rodrigues Guedes",
 			"client_email": "carlos@email.com.br",
-			"client_avatar" : "man.svg"
+			"client_avatar" : "man.svg",
+			"price" : 45
 		}
 	],
 	"services": [{
