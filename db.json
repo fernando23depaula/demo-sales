@@ -52,7 +52,7 @@
 			"media_tempo": 60
 		}
 	],
-	"Clients": [{
+	"clients": [{
 			"name": "Francisco",
 			"lastName": "José Machado",
 			"email": "josemachado@email.com",
